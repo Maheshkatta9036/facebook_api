@@ -8,7 +8,7 @@ HEADERS = {'Content-Type': 'application/json'}
 OPTION = "Enter which operation need to perform \n1)Make a post \n2)Make a post with photo \n3)Getting post information \n4)Delete a post \n5)Exit = "
 
 # GitHub Link
-REPO_LINK = "https://github.com/dineshsai14211/Profile_Management_flask-"
+REPO_LINK = "https://github.com/Maheshkatta9036/Profile-management"
 
 # Endpoint construction URL's
 GRAPH_API = "https://graph.facebook.com/"
